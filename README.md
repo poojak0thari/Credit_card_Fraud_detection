@@ -59,9 +59,18 @@ SO ACCORDING TO THE DATASET WE CAN APPLY ANY SUPERVISED LEARNING MODEL TO THIS D
    4. Data Modelling
       In this case we can apply any supervised machine learning algorithms or deep neural networks of our choice. Due to the complexities of the neural networks and also beacause of 
       higher interpretability of classical machine learning algorithms we have selected the following ML models to train on the dataset and will evaluate the best model using Test set.
-      In credit card fraud detection interpretability is an important parameter as one needs to know the reasons behind the result/descision provided by the model. Also, Feature 
+      In credit card fraud detection model's interpretability is an important parameter as one needs to know the reasons behind the result/descision provided by the model. Also, Feature 
       importance is easier to extract, which is crucial in fraud detection. So, we will apply different classical mahcine learning models such as Random Forest, One-Class-SVM, Logistic 
       Regression, Decision Tree, K-NN and AdaBoost.
+
+      *RANDOM FOREST
+       An extension of the Decision Tree algorithm, this algorithm just consists of several different decision trees working as an ensemble — each of them evaluates the input and 
+       produces some output. All outputs are then consolidated and the class with the most votes is chosen as the model’s prediction. RF is an extension of the bagging method, which 
+       involves selecting a random sample of data in a training set.
+      * One-Class-SVM
+        
+
+      
 
       
 

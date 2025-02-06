@@ -69,6 +69,7 @@ SO ACCORDING TO THE DATASET WE CAN APPLY ANY SUPERVISED LEARNING MODEL TO THIS D
        involves selecting a random sample of data in a training set.
       * One-Class-SVM
         
+        
 
       
 
